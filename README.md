@@ -1,4 +1,4 @@
-# papers
+# Hacking Papers
 This repository has been created to store Papers and Scientific publications related to hacking and infosec
 
 # Table of Contents
